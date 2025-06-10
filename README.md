@@ -6,7 +6,7 @@ This repository contains the data analysis pipeline, statistical modeling code (
 
 "Accelerated Epigenetic Aging and DNA Methylation-Based Telomere Shortening in Sarcopenic Obesity: A Pilot Study."
 
-This work investigates how distinct body composition phenotypes—sarcopenic obesity (SO), obesity, and sarcopenia—influence DNA methylation (DNAm)-based biomarkers of aging, including epigenetic age acceleration and DNAm-inferred telomere length (DNAmTL), through Bayesian linear and quantile regression models.
+This work investigates how distinct body composition phenotypes—sarcopenic obesity (SO), obesity, and sarcopenia—influence DNA methylation (DNAm)-based biomarkers of aging, including epigenetic age acceleration and DNAm-inferred telomere length (DNAmTL), through Bayesian GLM and quantile regression models.
 
 Abstract
 
